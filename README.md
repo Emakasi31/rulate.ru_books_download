@@ -7,3 +7,6 @@ cd rulate.ru_books_download/
 pip install -r requirements.txt
 
 python3 rulate.py
+
+#### Exemple url
+https://tl.rulate.ru/book/997/628115/ready
